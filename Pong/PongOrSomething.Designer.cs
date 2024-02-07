@@ -97,7 +97,7 @@
             this.AILabel.Name = "AILabel";
             this.AILabel.Size = new System.Drawing.Size(132, 46);
             this.AILabel.TabIndex = 3;
-            this.AILabel.Text = "AI: OFF";
+            this.AILabel.Text = " ";
             this.AILabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // Form1
